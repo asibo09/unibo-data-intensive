@@ -14,6 +14,14 @@ env/
 bin/
 lib/
 
+# Anaconda / Navigator specific files
+anaconda_projects/
+project_filebrowser.db
+
+# Generic SQLite databases
+*.db
+*.sqlite
+
 # File di sistema (macOS / Windows)
 .DS_Store
 Thumbs.db
